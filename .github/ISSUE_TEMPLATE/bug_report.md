@@ -34,9 +34,10 @@ Steps to reproduce the behavior:
 <!-- use a paste service like paste.ubuntu.com or pastebin.com -->
 
 **Checklist**
+<!-- put "x"s into these brackets to check the checkbox like `[x]` -->
  - [ ] I am using the official version of the mod. 
  - [ ] I tried the latest development version but the issue persists. 
  - [ ] I searched for similar open issues and could not find an existing bug report on this. 
 
 **Additional context**
-Add any other context about the problem here.
+<!-- Add any other context about the problem here. -->
